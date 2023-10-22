@@ -1,5 +1,6 @@
 # Blog App
 Blog app assignment.
+[https://blog-app-assignment.onrender.com]
 
 # Author Endpoints
 ## Authentication
@@ -84,6 +85,3 @@ All the routes other than /auth are protected with userProtect controller.
    - Get comment from the request body and searches the user in the database.
    - Returns a 200 OK status response when comment is successfullt posted.
 
-## Postman Collection
-
-[https://www.postman.com/munishrukhaya/workspace/blog-app-assignment/collection/30129538-9e942329-2dda-42db-ab8b-8c906febc502?action=share&creator=30129538]
